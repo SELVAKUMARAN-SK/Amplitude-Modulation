@@ -108,7 +108,8 @@ plot(t,s_usb);
 
 Output Waveform
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/b85fe7ba-263b-454d-88df-4e42f5ae89cd" />
+![WhatsApp Image 2025-08-29 at 20 39 38_b7a7d163](https://github.com/user-attachments/assets/dccb1b79-fb62-4605-891a-196b95a5ed50)
+
 
 
 
